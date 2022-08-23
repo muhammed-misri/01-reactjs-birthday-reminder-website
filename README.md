@@ -1,6 +1,6 @@
-## birthday reminder Website
+## birthday reminder website
 
-sample react js web application
+sample react.js web application
 
 Live Demo: https: https://birthday-reminder-website.netlify.app/
 
